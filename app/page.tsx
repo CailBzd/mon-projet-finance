@@ -77,7 +77,7 @@ export default function Home() {
               />
               <h3 className="text-xl font-semibold mb-2">Gestion des épargnes</h3>
               <p className="text-gray-600">
-                Créez des objectifs d'épargne et suivez votre progression pour atteindre vos projets.
+                Créez des objectifs d&apos;épargne et suivez votre progression pour atteindre vos projets.
               </p>
             </div>
             <div className="text-center">
