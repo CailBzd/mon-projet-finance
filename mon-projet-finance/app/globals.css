@@ -1,0 +1,13 @@
+/* app/globals.css */
+
+/* Importation de Tailwind CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Styles globaux supplémentaires */
+body {
+  @apply font-sans;
+  margin: 0;
+  padding: 0;
+}
